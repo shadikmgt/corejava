@@ -1,4 +1,4 @@
-package string_java_mathAPI;
+package src.string_java_mathAPI;
 
 public class EmailValidator {
     public static boolean isValidEmail(String email){

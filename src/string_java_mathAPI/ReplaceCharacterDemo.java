@@ -1,4 +1,4 @@
-package string_java_mathAPI;
+package src.string_java_mathAPI;
 
 public class ReplaceCharacterDemo {
     public static String replaceChar(String string, char oldChar, char newChar){

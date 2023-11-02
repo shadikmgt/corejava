@@ -1,4 +1,4 @@
-package string_java_mathAPI;
+package src.string_java_mathAPI;
 
 import java.time.LocalTime;
 import java.util.Scanner;

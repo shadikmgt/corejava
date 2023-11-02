@@ -1,4 +1,4 @@
-package string_java_mathAPI;
+package src.string_java_mathAPI;
 
 public class SplitString {
     public static String[] splitString(String string, String delimiter){

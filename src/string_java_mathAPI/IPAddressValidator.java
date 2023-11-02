@@ -1,4 +1,4 @@
-package string_java_mathAPI;
+package src.string_java_mathAPI;
 
 public class IPAddressValidator {
     public static boolean isValidIPAddress(String ipAddress){
