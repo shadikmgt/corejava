@@ -23,6 +23,8 @@ public class ArrayPractice {
 //            arr[i] = in.nextInt();
 //        }
 //        System.out.println(Arrays.toString(arr));
+
+
         int [] arr = new int [] {1, 2, 3, 4, 2, 7, 8, 8, 3};
 
         System.out.println("Duplicate values in the array  is : ");
@@ -34,6 +36,20 @@ public class ArrayPractice {
                 }
             }
         }
+
+
+
+
+//        int [] arr = new int[] {4,2,6,3,7,5,8,4,2,3};
+//        System.out.println("Duplicates values is/are  : ");
+//
+//        for (int i = 0; i < arr.length; i++){
+//            for (int j = i + 1; j < arr.length; j++){
+//                if (arr[i] == arr[j]){
+//                    System.out.println("duplicate value : " + arr[i]);
+//                }
+//            }
+//        }
 
 
     }

@@ -6,8 +6,6 @@ public class LinearSearch {
         int arr[] = {2,5,8,3,9,8,11,19,12,14};
         int data = 22;
         linearSearch.linearSearch(arr, data);
-
-
     }
     public void linearSearch(int arr[], int data){
         int n = arr.length;
